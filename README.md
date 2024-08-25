@@ -10,7 +10,8 @@
 以下列舉本主題相關的主題：
 
 * HTML
-* Markdown
+* [Markdown 標記語言](https://gitlab.com/libre-knowledge/markdown)  
+  自純文字電子郵件取得靈感的輕量級標記語言
 
 ## 參考資料
 

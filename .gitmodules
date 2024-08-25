@@ -7,3 +7,7 @@
 #
 # Copyright 2024 林博仁(Buo-ren Lin) <buo.ren.lin@gmail.com>
 # SPDX-License-Identifier: CC-BY-SA-4.0
+[submodule "Markdown 標記語言"]
+	path = Markdown 標記語言
+	url = https://gitlab.com/libre-knowledge/markdown.git
+	ignore = dirty
